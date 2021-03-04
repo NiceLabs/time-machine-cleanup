@@ -1,4 +1,4 @@
-# Time Machine Cleanup
+# Fuck Time Machine Cleanup
 
 ## Script
 
